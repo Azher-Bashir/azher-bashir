@@ -1,4 +1,6 @@
-<img src="[https://github.com/user-attachments/assets/3604b109-829c-47d9-889e-792434b8d34d" style="display: block; margin: auto;](https://img.freepik.com/free-photo/cute-furry-cat-indoors_23-2150679280.jpg)" />
+<div align="center"> 
+<img  height="300" src="https://github.com/Azher-Bashir/azher-bashir/blob/main/GITHUB.jpg" /> 
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Azher Bashir</h1>
