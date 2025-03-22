@@ -53,10 +53,10 @@ _________________________________
 
 
 
-<p><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=azher-bashir&show_icons=true&locale=en&layout=compact" alt="azher-bashir" /></p>
+<p><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs?username=azher-bashir&show_icons=true&locale=en&layout=compact" alt="azher-bashir" /></p>
 
 <p>
-<img  height="100" align="center" src="https://github-readme-stats.vercel.app/api?username=azher-bashir&show_icons=true&locale=en" align="center" alt="azher-bashir" />
-<img align="right" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=azher-bashir&" alt="azher-bashir" /></p>
+<img  height="110" align="center" src="https://github-readme-stats.vercel.app/api?username=azher-bashir&show_icons=true&locale=en" align="center" alt="azher-bashir" />
+<img align="right" height="110" src="https://github-readme-streak-stats.herokuapp.com/?user=azher-bashir&" alt="azher-bashir" /></p>
 
 <p align="center" height="250"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azher-bashir" alt="azher-bashir" height="250" /></a> </p>
